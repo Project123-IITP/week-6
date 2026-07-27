@@ -38,6 +38,9 @@ Live product data is powered by [DummyJSON](https://dummyjson.com/products).
 
 ```
 shopzone/
+├── .github/
+       └── workflow
+             └── deploy.yml
 ├── public/
 │   └── favicon.svg
 ├── src/
